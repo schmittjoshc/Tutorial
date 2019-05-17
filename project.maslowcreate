@@ -313,11 +313,11 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 10
+                            "ioValue": 100
                         },
                         {
                             "name": "y length",
-                            "ioValue": 10
+                            "ioValue": 100
                         }
                     ]
                 },
@@ -436,7 +436,18 @@
                     "ap1ID": 934230,
                     "ap2ID": 449683
                 },
-                null,
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "x length",
+                    "ap1ID": 613015,
+                    "ap2ID": 431630
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "y length",
+                    "ap1ID": 613015,
+                    "ap2ID": 431630
+                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "Shape",

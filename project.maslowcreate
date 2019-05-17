@@ -102,8 +102,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1401,
-                    "y": 220.5,
+                    "x": 1785,
+                    "y": 282,
                     "ioValues": []
                 }
             ],
@@ -253,19 +253,6 @@
                     ]
                 },
                 {
-                    "atomType": "Constant",
-                    "name": "Constant",
-                    "x": 591,
-                    "y": 373,
-                    "uniqueID": 613015,
-                    "ioValues": [
-                        {
-                            "name": "number",
-                            "ioValue": 100
-                        }
-                    ]
-                },
-                {
                     "atomType": "Readme",
                     "name": "README",
                     "x": 702,
@@ -273,6 +260,19 @@
                     "uniqueID": 800690,
                     "ioValues": [],
                     "readmeText": "Molecules like this one let you layer your model to create more space. Real estate on the screen is intentionally limited to keep projects from becoming cluttered. There is no limit to how deep you can logically nest Atoms in Molecules"
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Constant",
+                    "x": 590,
+                    "y": 415,
+                    "uniqueID": 613015,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 100
+                        }
+                    ]
                 },
                 {
                     "atomType": "Difference",
@@ -307,8 +307,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 958,
-                    "y": 344,
+                    "x": 924,
+                    "y": 424,
                     "uniqueID": 431630,
                     "ioValues": [
                         {
@@ -345,8 +345,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 1088,
-                    "y": 345,
+                    "x": 1071,
+                    "y": 310,
                     "uniqueID": 496771,
                     "ioValues": [
                         {
@@ -388,8 +388,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1401,
-                    "y": 220.5,
+                    "x": 1784,
+                    "y": 287,
                     "ioValues": []
                 }
             ],

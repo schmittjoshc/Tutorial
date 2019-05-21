@@ -308,7 +308,7 @@
                     "atomType": "Rectangle",
                     "name": "Rectangle",
                     "x": 924,
-                    "y": 424,
+                    "y": 305,
                     "uniqueID": 431630,
                     "ioValues": [
                         {
@@ -346,7 +346,7 @@
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 1071,
-                    "y": 310,
+                    "y": 305,
                     "uniqueID": 496771,
                     "ioValues": [
                         {
@@ -368,7 +368,7 @@
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 1298,
-                    "y": 340,
+                    "y": 305,
                     "uniqueID": 167740,
                     "ioValues": [
                         {
